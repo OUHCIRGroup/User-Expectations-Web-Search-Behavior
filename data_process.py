@@ -9,7 +9,7 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 
 # Set the working directory
-os.chdir(r'H:\OneDrive - University of Oklahoma\IR project\user study\data')
+os.chdir('data_path')
 
 # Load the datasets
 df_task = pd.read_csv('df_task.csv')
