@@ -17,12 +17,6 @@ This repository contains a consolidated script of a poster published in ASIST202
 
 Open the file in Spyder or Jupyter Notebook and run the script interactively.
 
-#### Function Descriptions:
-
-- `dataset_analysis(dataset_name)`: Processes the specified dataset and returns extracted data.
-
-- `pre_analysis(dataset_name)`: Integrates the dataset analysis and contains clustering analysis and visualization logic for the specified dataset.
-
 #### Datasets:
 
 The dataset used in this work is from a user study, which will be released after the end of the project.
