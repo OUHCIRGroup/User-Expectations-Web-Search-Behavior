@@ -15,7 +15,7 @@ This repository contains a consolidated script of a poster published in ASIST202
 
 #### Usage:
 
-Open the file in Spyder or Jupyter Notebook and run the script interactively/
+Open the file in Spyder or Jupyter Notebook and run the script interactively.
 
 #### Function Descriptions:
 
@@ -29,7 +29,7 @@ The dataset used in this work is from a user study, which will be released after
 
 #### Publication:
 
-If you use this code or the datasets, please cite our publication:
+If you use this code, please cite our publication:
 
 ```latex
 @article{https://doi.org/10.1002/pra2.740,
